@@ -1,0 +1,13 @@
+/* admin style */
+body {
+    font-family:sans-serif;
+}
+#table-scholen{
+    margin:10px auto;
+    width:800px;
+}
+#table-scholen th{
+    padding:2px;
+}
+#table-scholen td{
+}
